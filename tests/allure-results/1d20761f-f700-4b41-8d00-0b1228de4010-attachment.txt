@@ -1,0 +1,6 @@
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 104.0.5112
+[WDM] - Get LATEST chromedriver version for 104.0.5112 google-chrome
+[WDM] - There is no [win32] chromedriver for browser 104.0.5112 in cache
+[WDM] - About to download new driver from https://chromedriver.storage.googleapis.com/104.0.5112.79/chromedriver_win32.zip
+[WDM] - Driver has been saved in cache [C:\Users\GameMax\.wdm\drivers\chromedriver\win32\104.0.5112.79]
